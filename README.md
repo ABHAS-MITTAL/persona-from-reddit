@@ -61,7 +61,7 @@ Before running this project, make sure you have:
 
 ## 🚀 Quick Test on Lovable
 
-Want to try the app immediately? **[Open in Lovable](https://lovable.dev/projects/YOUR_PROJECT_ID)** for instant testing without local setup.
+Want to try the app immediately? **[Open in Lovable](https://lovable.dev/projects/8d5b2ab5-3dec-4758-ac1f-f8e3432b27b0)** for instant testing without local setup.
 
 ## 🎯 How to Use
 

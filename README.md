@@ -59,6 +59,10 @@ Before running this project, make sure you have:
    Navigate to http://localhost:5173
    ```
 
+## 🚀 Quick Test on Lovable
+
+Want to try the app immediately? **[Open in Lovable](https://lovable.dev/projects/YOUR_PROJECT_ID)** for instant testing without local setup.
+
 ## 🎯 How to Use
 
 1. **Enter Reddit Profile URL**: Input a Reddit user profile URL (e.g., `https://www.reddit.com/user/username/`)
